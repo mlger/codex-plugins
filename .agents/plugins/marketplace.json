@@ -1,7 +1,7 @@
 {
   "name": "mlger-plugins",
   "interface": {
-    "displayName": "Codex official"
+    "displayName": "Codex unofficial"
   },
   "plugins": [
     {
